@@ -1,6 +1,7 @@
 Privacy Policy – AJMI1 Calculator
-Effective Date: 2025
-The AJMI1 Calculator is designed to help healthcare professionals estimate the severity of cervical myelopathy. Your privacy is important to us. This app is safe to use and does not collect any personal or medical information.
+Effective Date: December, 2025
+The AJMI1 Calculator is designed to help healthcare professionals estimate the severity of cervical myelopathy.It does not provide medical diagnosis or treatment recommendations and does not replace professional medical judgment.
+All clinical decisions must be made by a qualified healthcare professional.Your privacy is important to us. This app is safe to use and does not collect any personal or medical information.
 1. No Data Collected
 AJMI1 does not collect, store, or share any information.
 Anything you enter into the app stays only on your device and is not saved or transmitted anywhere.
